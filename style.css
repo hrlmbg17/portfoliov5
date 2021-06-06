@@ -1,0 +1,16 @@
+.navbar, footer{
+    background-color: rgb(43, 44, 136);
+}
+
+.jumbotron {
+    padding-top: 80px;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
